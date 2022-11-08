@@ -3,7 +3,7 @@
 * Open terminal
 * `docker-compose up --build`
 * Open second terminal
-* `cd tester`
+* `cd core10`
 * `npm install`
 * `npm run start`
 * `curl -k https://localhost:443/ping` - You should recieve a 403 error
